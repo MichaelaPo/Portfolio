@@ -15,4 +15,4 @@
 * [What and Where are the World's Oldest Businesses](https://github.com/MichaelaPo/SQL-Worlds-Oldest-Businesses)
 
 ## Power BI
-- [Sentiment Analysis on Olist Reviews (Brazilian E-Commerce Public Dataset)](https://github.com/MichaelaPo/Olist-Sentiment_Analysis-PowerBI)
+- [Sentiment Analysis for Olist (Brazilian E-Commerce Public Dataset)](https://github.com/MichaelaPo/Olist-Sentiment_Analysis-PowerBI)
