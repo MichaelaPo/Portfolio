@@ -1,6 +1,9 @@
 # 👩‍💻 Welcome to my data analytics portfolio! 
 
 
+## Power BI
+- [Sentiment Analysis for Olist (Brazilian E-Commerce Public Dataset)](https://github.com/MichaelaPo/Olist-Sentiment_Analysis-PowerBI)
+  
 ## Python
 
 * [Risk and Returns: The Sharpe Ratio](https://github.com/MichaelaPo/The-Sharpe-Ratio)
@@ -14,5 +17,3 @@
 * [Analyzing International Debt Statistics](https://github.com/MichaelaPo/SQL-Analyzing-International-Debt-Statistics)
 * [What and Where are the World's Oldest Businesses](https://github.com/MichaelaPo/SQL-Worlds-Oldest-Businesses)
 
-## Power BI
-- [Sentiment Analysis for Olist (Brazilian E-Commerce Public Dataset)](https://github.com/MichaelaPo/Olist-Sentiment_Analysis-PowerBI)
